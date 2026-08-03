@@ -26,3 +26,7 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 - Practicing computer vision workflows.
 
 Feel free to fork, contribute, or customize this project for your creative needs!
+
+## WORKSHOP-1 Adding Sunglasses to Your Passport Photo Using OpenCV¶
+### NAME : VIGNESH S
+### REG NO : 212224110061
